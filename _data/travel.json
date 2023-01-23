@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "63c7dff79f5b892099190669",
+    "title": "Termez",
+    "image": "rasm",
+    "descr": "chiroyli shahar 111",
+    "__v": 0
+  },
+  {
+    "_id": "63c79f51c055f520e8286f0f",
+    "title": "New Year",
+    "image": "https://img.freepik.com/free-psd/happy-new-year-2023-gold-text-effect-banner-design-template_47987-12125.jpg?w=2000",
+    "descr": "yangi yil bu yangilanish",
+    "__v": 0
+  },
+  {
+    "_id": "63c6e5cd3b23ca8907f9452e",
+    "title": "Qish fasli",
+    "image": "https://storage.kun.uz/source/4/MyHi3uaQ1mreCxAX3AkGHCDpty_gVUuz.jpg",
+    "descr": "bu yil qish juda sovuq keldi",
+    "__v": 0
+  },
+  {
+    "_id": "639dd122c7a805bc37c0e4a9",
+    "title": "London666",
+    "image": "https://phototravellers.de/wp-content/uploads/2020/03/intro-london-sehenswuerdigkeiten.jpg",
+    "descr": "London shahri7",
+    "__v": 0
+  },
+  {
+    "_id": "639dbdf8cb5906645ce2684a",
+    "title": "Toshkent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Tashkent-City_name_statue.jpg",
+    "descr": "Toshkent chiroyli shahar",
+    "__v": 0
+  },
+  {
+    "_id": "639d94989b9cb8f7b9c14cc9",
+    "title": "Parij shahri",
+    "image": "https://ilovesayohat.uz/wp-content/uploads/2020/05/Summer-in-Paris-AssistAnt-Travel-1080x675-1.jpg",
+    "descr": "Parijga borishni maslahat beraman",
+    "__v": 0
+  }
+]
